@@ -1,0 +1,16 @@
+# Rack Mount Go currently has one maintainer.
+* @thekidnamedkd
+
+# Automation, policy, and agent instructions always reach a maintainer.
+/.github/ @thekidnamedkd
+/.github/workflows/ @thekidnamedkd
+/scripts/ @thekidnamedkd
+/tests/ @thekidnamedkd
+/.pr_agent.toml @thekidnamedkd
+/AGENTS.md @thekidnamedkd
+/SKILL.md @thekidnamedkd
+/SECURITY.md @thekidnamedkd
+/CONTRIBUTING.md @thekidnamedkd
+/CODE_OF_CONDUCT.md @thekidnamedkd
+
+# This repository has no dependency manifests, lockfiles, or release configuration.
